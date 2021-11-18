@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cristianobrito
-- programador full stack
-- 🌱 I’m currently learning engenharia de software
+- 👋 Hi, SOU CRISTIANO OLIVEIRA
+- PROGRAMADOR FULLSTACK
+- ATUALMENTE ESTUDO ENGENHARIA DE SOFTWARE
 - DEV GAMES UNITY
 
 <div>
