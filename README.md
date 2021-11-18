@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristianobrito
 - programador full stack
 - 🌱 I’m currently learning engenharia de software
-- 📫 How to reach me britonano@gmail.com
+- DEV GAMES UNITY
 
 <div>
   <a href="https://beacons.ai/cristianobrito">
