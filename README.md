@@ -49,13 +49,16 @@
 <!---
 cristianobrito/cristianobrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+---->
+<!---
 mostra um gif se adicionado ao html
+--->
  <img align="right" alt="Cris-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-
+<!---
 mostra uma cobra andando sob o historico
+---->
 ![Snake animation](https://github.com/cristianobrito/cristianobrito/blob/output/github-contribution-grid-snake.svg)
-
+<!---
 tutor
 https://www.youtube.com/watch?v=TsaLQAetPLU
 --->
