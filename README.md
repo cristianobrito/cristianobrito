@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 ---->
 <!---
 mostra um gif se adicionado ao html
---->
+
  <img align="right" alt="Cris-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 <!---
 mostra uma cobra andando sob o historico
