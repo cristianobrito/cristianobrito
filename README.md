@@ -30,8 +30,6 @@
 <img alt="Laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" >
   <!-- MySQL -->
  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <!-- Laravel -->
-<img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 <!-- Docker -->
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <!-- Linux -->
@@ -40,13 +38,7 @@
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <!-- Kubernetes -->
 <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-<!-- Kali Linux -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Kali_Linux_Logo.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> 
-<!-- Nmap -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nmap-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>
-<!-- Metasploit -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>
    
 </div>
   
