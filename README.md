@@ -27,7 +27,7 @@
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
  <!-- Laravel -->
-<img alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel.svg" >
+<img alt="Laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" >
   <!-- MySQL -->
  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <!-- Laravel -->
