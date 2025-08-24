@@ -41,6 +41,7 @@
 <!-- Kubernetes -->
 <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 <!-- Kali Linux -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Kali_Linux_Logo.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> 
 <!-- Nmap -->
 <img align="center" alt="Nmap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nmap-logo.svg">
