@@ -27,7 +27,7 @@
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <!-- CodeIgniter -->
- <img align="center" alt="CodeIgniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-original.svg">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodeIgniter_Logo.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>
   <!-- MySQL -->
  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <!-- Laravel -->
