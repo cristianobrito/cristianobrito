@@ -26,12 +26,24 @@
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
+  <!-- CodeIgniter -->
+ <img align="center" alt="CodeIgniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-original.svg">
+  <!-- MySQL -->
+ <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <!-- Laravel -->
+<img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 <!-- Docker -->
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    
- 
-    
+<!-- Git -->
+<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<!-- Kubernetes -->
+<img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<!-- Kali Linux (não oficial no Devicon, mas você pode usar um ícone genérico de Linux ou baixar SVG do Kali) -->
+<img align="center" alt="Kali Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Kali_Linux_Logo.svg">   
+<!-- Nmap (para pentest, não oficial no Devicon, mas dá pra usar ícone SVG) -->
+<img align="center" alt="Nmap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nmap-logo.svg">
+<!-- Metasploit (também não oficial no Devicon) -->
+<img align="center" alt="Metasploit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo.svg">    
 </div>
   
   ##
