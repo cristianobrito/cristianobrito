@@ -57,4 +57,4 @@
 ---
 
 <!-- Créditos tutor -->
-[Tutorial de criação de README animado](https://www.youtube.com/watch?v=TsaLQAetPLU)
+<!-- [Tutorial de criação de README animado](https://www.youtube.com/watch?v=TsaLQAetPLU) -->
