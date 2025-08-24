@@ -26,8 +26,21 @@
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <!-- CodeIgniter -->
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodeIgniter_Logo.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>
+ <!-- Laravel -->
+<img alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+
+<!-- Laravel com escrito -->
+<img alt="Laravel Wordmark" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+
+<!-- CodeIgniter -->
+<img alt="CodeIgniter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-original.svg" />
+
+<!-- Nmap não está presente no Devicon! Use SVG externo -->
+<img alt="Nmap" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nmap-logo.svg" />
+
+<!-- Metasploit também não está no Devicon -->
+<img alt="Metasploit" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo.svg" />
+
   <!-- MySQL -->
  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <!-- Laravel -->
