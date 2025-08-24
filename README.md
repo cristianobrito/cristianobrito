@@ -1,11 +1,11 @@
-- 👋 Hi, SOU CRISTIANO OLIVEIRA
-- DESENVOLVEDOR FULL-STACK
-- ATUALMENTE ESTUDO ENGENHARIA DE SOFTWARE
-- DEV GAMES UNITY
+# 👋 Hi, SOU CRISTIANO OLIVEIRA
+- DESENVOLVEDOR FULL-STACK  
+- ATUALMENTE ESTUDO ENGENHARIA DE SOFTWARE  
+- DEV GAMES UNITY  
 
+---
 
-  
-  <div style="display: inline_block"><br> 
+<div style="display: inline_block"><br> 
   <img align="center" alt="Cris-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cris-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -40,37 +40,32 @@
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <!-- Kubernetes -->
 <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-<!-- Kali Linux (não oficial no Devicon, mas você pode usar um ícone genérico de Linux ou baixar SVG do Kali) -->
+<!-- Kali Linux -->
 <img align="center" alt="Kali Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Kali_Linux_Logo.svg">   
-<!-- Nmap (para pentest, não oficial no Devicon, mas dá pra usar ícone SVG) -->
+<!-- Nmap -->
 <img align="center" alt="Nmap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Nmap-logo.svg">
-<!-- Metasploit (também não oficial no Devicon) -->
+<!-- Metasploit -->
 <img align="center" alt="Metasploit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo.svg">    
 </div>
   
-  ##
-  
-  <div>
+---
+
+<div>
   <a href="https://www.youtube.com/channel/UCkNsWkas2pwDltaer_USZZA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/zeusnetuno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/cristiano-oliveira-3b6022126/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-  
-<!---
-cristianobrito/cristianobrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----->
-<!---
-mostra um gif se adicionado ao html
+---
 
- <img align="right" alt="Cris-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-<!---
-mostra uma cobra andando sob o historico
----->
+<!-- Gifzinho -->
+<img align="right" alt="Cris-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+
+<!-- Cobra animada -->
 ![Snake animation](https://github.com/cristianobrito/cristianobrito/blob/output/github-contribution-grid-snake.svg)
-<!---
-tutor
-https://www.youtube.com/watch?v=TsaLQAetPLU
---->
+
+---
+
+<!-- Créditos tutor -->
+[Tutorial de criação de README animado](https://www.youtube.com/watch?v=TsaLQAetPLU)
