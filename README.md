@@ -14,5 +14,3 @@ Minha mentalidade é simples:
 
 Evoluir constantemente até alcançar excelência técnica e domínio completo da área.
 
-<!-- Créditos tutor -->
-<!-- [Tutorial de criação de README animado](https://www.youtube.com/watch?v=TsaLQAetPLU) -->
