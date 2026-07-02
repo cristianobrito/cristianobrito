@@ -2,6 +2,7 @@
 
 🚀 Engenheiro de Software | Pentester | Fullstack Developer
 🛡️ Segurança de Redes | Cibersegurança | Automação
+🕵️‍♀️ Especialista em Segurança Cibernética e Inteligência Digital
 🎯 Foco: tecnologias
 
 🧠 Sobre mim
